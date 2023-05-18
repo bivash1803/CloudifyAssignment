@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "api": "^5.0.8",
+    "shopify": "^0.1.0"
+  }
+}
